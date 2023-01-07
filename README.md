@@ -4,7 +4,7 @@ This program finds and highlights the longest path in a matrix of numbers. The l
 
 <details>
 <summary> Input </summary>
-This program takes in a csv file of numbers. Numbers may be different.
+This program takes in a csv file of numbers. Numbers may be different. Above are some acceptable csv file examples.
 
 Condition:  
 - Every row must have the same amount of numbers
