@@ -1,1 +1,1 @@
-# Find-Longest-Path-Game
+# Find-Longest-Path-Game-Brute-Force
