@@ -1,6 +1,8 @@
 # Find-Longest-Path-Brute-Force
 ## Summary
-This program finds and highlights the longest path in a matrix of numbers. The longest path has to be the same number and can be from any direction adjacent to the matrix entry including corners.
+This program finds and highlights the longest path in a matrix of numbers. The longest path has to be the same number and can be from any direction adjacent to the matrix entry including corners.  
+
+Developed Using Python 3.1.2 & Conda 4.12.0
 
 <details>
 <summary> Input </summary>
