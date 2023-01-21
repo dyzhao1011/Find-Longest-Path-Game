@@ -12,7 +12,7 @@ class MainWindow(QWidget):
         self.grid = None
 
         self.resize(200,250)
-        self.setWindowTitle('CSC 221 - HW 4')  
+        self.setWindowTitle('Find Longest Path')  
 
         self.grid = QGridLayout()  
         self.makeMatrix(matrix, self.grid)
